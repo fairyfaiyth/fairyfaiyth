@@ -13,7 +13,7 @@
 
 * [My Live Page](https://fairyfaiyth.github.io/fairyfaiyth)
 * [Markdown Practice Exercises](./markdown-practice.md)
-* [Team Collaboration Repository](https://github.com)
+* [Team Repository](https://github.com/Wesala-crypto/-iyf-s12-week-00-team-Wesala-crypto)
 
 
 ## How to Reach Me
