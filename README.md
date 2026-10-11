@@ -11,7 +11,8 @@
   
 # Course Deliverables
 
-* [My Live Page](https://fairyfaiyth.github.io/fairyfaiyth)
+## My Live Page
+[View My Website](https://fairyfaiyth.github.io/)
 * [Markdown Practice Exercises](./markdown-practice.md)
 * [Team Repository](https://github.com/Wesala-crypto/-iyf-s12-week-00-team-Wesala-crypto)
 
