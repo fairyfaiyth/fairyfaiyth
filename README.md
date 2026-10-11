@@ -19,6 +19,10 @@
 ### Pull Request I Merged
 [Add VS Code Section — Pull Request](https://github.com/Wesala-crypto/-iyf-s12-week-00-team-Wesala-crypto/pull/1/commits)
 
+### Issues I Created
+
+- [Issue 1](https://github.com/Wesala-crypto/-iyf-s12-week-00-team-Wesala-crypto/issues/9)
+- [Issue 2](https://github.com/Wesala-crypto/-iyf-s12-week-00-team-Wesala-crypto/issues/10)
 
 ## How to Reach Me
 - Email:faiythmutisya@gmail.com
